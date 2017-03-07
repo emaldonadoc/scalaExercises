@@ -1,5 +1,6 @@
 /**
   * Created by emmanuelmaldonado on 07/03/17.
+  * Calculate e^x using the serie 1 + x + (x^2/2!) + ... + (x^n/n!) with n = 10 
   */
 object app {
 
